@@ -1,1 +1,1 @@
-From k8s.gcr.io/dns/k8s-dns-node-cache:1.21.1
+From k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.4.1

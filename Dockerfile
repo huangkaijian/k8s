@@ -1,1 +1,1 @@
-From zabbix/zabbix-server-mysql:7.0-centos-latest
+zabbix/zabbix-server-mysql:7.0-centos-latest

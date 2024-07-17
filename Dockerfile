@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.4.1
+From zabbix/zabbix-server-mysql:7.0-centos-latest
